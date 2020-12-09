@@ -10,6 +10,11 @@ This tutorial shows you how to:
 - Configure certificate to use the public domain name
 - Connect to a MongoDB outside of OpenShift or Kubernetes
 
+# Prerequisites
+
+* OpenShift cluster
+* OpenShift CLI (oc)
+
 # Steps
 1. [Complete the previous tutorial "Secure MongoDB Enterprise on Red Hat OpenShift"](#1-Complete-the-previous-tutorial-Secure-MongoDB-Enterprise-on-Red-Hat-OpenShift)
 2. [Expose MongoDB replicas through NodePort](#2-Expose-MongoDB-replicas-through-NodePort)
